@@ -6,3 +6,9 @@ i. veg juice
 ii. buttermilk
 iii. sugarcane juice
 iv. mixed fruit juice
+
+#2. FRUITS
+i. apple
+ii. guava
+iii. watermelon
+iv. muskmelon
